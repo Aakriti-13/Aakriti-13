@@ -1,5 +1,14 @@
-## Hi there 👋
+<h1 align="center">Heyy there, I'm Aakriti</h1>
 
+<p align ="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F716&background=FF460F00&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Software+Developer;AI%2FML+Student;Full-stack+Developer;Always+learning%2C+always+building)](https://git.io/typing-svg" alt="Typing SVG" />
+</p>
+<h4 align="center">
+Computer Science Student | Cybersecurity Enthusiast | Software Developer
+</h4>
+
+<p>I'm currently studying in final year of B.Tech in Computer Science with Honours in AIML. I'm keen to work on cybersecurity, full-stack development and AIML-focussed projects. I love trying new technologies and integrating other branches into computer science. I want to build an amazing network with people who are curious to learn and experiment. I am especially looking for someone who could help me build IoT-based projects and make cool electronics-based projects. 
+</p>
 <!--
 **Aakriti-13/Aakriti-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
