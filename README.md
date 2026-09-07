@@ -1,7 +1,7 @@
 <h1 align="center">Heyy there, I'm Aakriti</h1>
 
 <p align ="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F716&background=FF460F00&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Software+Developer;AI%2FML+Student;Full-stack+Developer;Always+learning%2C+always+building)](https://git.io/typing-svg" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F716&background=FF460F00&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Software+Developer;AI%2FML+Student;Full-stack+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 <h4 align="center">
 Computer Science Student | Cybersecurity Enthusiast | Software Developer
